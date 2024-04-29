@@ -16,7 +16,7 @@ body {
   background: -webkit-linear-gradient(left, #5a5bf3 0%,#91e7d9 100%); 
   background: linear-gradient(to right, #5a5bf3 0%,#91e7d9 100%);
 */
-  background-image:url("../images/_MG_2500 - Dique el Cadillal para fondo de mi SoundSampler.jpg");
+  background-image:url("../images/background.png");
  
   display: flex;
   flex-direction: column;
